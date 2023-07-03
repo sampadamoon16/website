@@ -1,0 +1,98 @@
+.menu{
+    font-size: 18px;
+    font-weight: 700;
+   
+}
+
+.logo{
+    margin-right: 100px;
+    margin-top: 0.5rem!important;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+    font-size: 1em;
+}
+
+.text1{
+    font-size: 100px;
+    text-align: center;
+    font-weight: 1400px;
+    
+}
+
+.t1{
+    font-weight: 800px;
+}
+
+.col-4{
+    background-color: #1e2023;
+    border: 1px solid #42464a;
+    color: #a4abb5;
+    border-radius: 5px;     
+
+}
+
+.submit{
+    background-color:#eaf436;
+    border-radius: 4px;
+    padding: 10px 155px;
+    margin-top: 25px;
+}
+
+
+.styles_myinput__ZOsgd{
+    background-color: #1e2023;
+    border: 0.5px solid #42464a;
+    color: #a8acb0;
+}
+
+.heading{
+    margin-top: 180px;
+}
+p{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 800px;
+    color: skyblue;
+    
+}
+
+.bigdiv{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 40px;
+    
+}
+
+
+.div1{
+    border: 2px solid #255035;
+    height: 700px;
+    width: 400px;
+    background-color: #0b1b12;
+    color: #84b59a;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.div2{
+    border: 2px solid #255035;
+    height: 700px;
+    width: 400px;
+    background-color: #0b1b12;
+    color: #84b59a;
+    border-radius: 10px;
+}
+
+.Inlogo{
+    background-color: #112b1c;
+    border: 1px solid #255035;
+    color: #84b59a;
+    border-radius: 5px;
+    border-bottom: 0;
+}
+
+
+

@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+button{
+    border: none;
+}
+.dd{
+    font-size: 40px;
+}
+.dd2{
+    border-right: 2px ;
+   
+}

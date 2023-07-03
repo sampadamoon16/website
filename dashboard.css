@@ -1,0 +1,28 @@
+nav{    
+    border-bottom: 1px solid rgb(193, 187, 187);
+
+   
+}
+
+.part1{
+    padding-left: 5px;
+    padding-top: 6px;
+    display: flex;
+}
+
+.div1{
+    border-right: 1px solid grey;
+}
+
+li{
+    list-style: none;
+    color: gray;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+.div3{
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+}

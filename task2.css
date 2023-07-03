@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav1{
+    background-color: rgb(61, 58, 58);
+}
+.title{
+    color: white;   
+}
+.sidebar{
+    background-color: rgb(35, 36, 36);
+}
+.div1{
+    color: white;
+}
+li{
+    
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(173, 168, 168); 
+}
+.heading{
+    margin-left: 10px;
+}
+.sidelast{
+    color: rgb(173, 168, 168); 
+    background-color: rgb(61, 58, 58);
+    width: 95%;
+    margin-top: 400px;
+    margin-left: 5px;
+    padding-left: 5px;
+}
+
+ul li :hover a{
+    padding-left: 50px;
+
+}
+
